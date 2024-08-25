@@ -1,4 +1,4 @@
-Nmap Commands
+# Nmap Commands
 
 ### Basic Scans:
 1. **Scan a single IP**:  
@@ -522,7 +522,9 @@ Nmap Commands
     nmap -v 192.168.1.1
     ```
 
-100. **Display the scan progress**:
-    ```bash
-    nmap --progress 192.168.1.1
-    ```
+100. **Display the Scan Progress:**
+
+```bash
+nmap --progress 192.168.1.1
+```
+
